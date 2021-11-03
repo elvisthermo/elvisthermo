@@ -1,6 +1,9 @@
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://media.giphy.com/media/5eBFwuChlchjq9J05d/giphy.gif)
+<h4 align="center">
 
-## Fale Galerinha eu sou a Elvis Miranda, Desenvolvedor Fullstack!
+![autor: Elvis Thermo](img/spacepixel.gif)
+
+
+## Fale Galerinha eu sou a Elvis Thermo, Desenvolvedor Fullstack!
 
 - 🔭 Desenvolvedor de Javascript
 - 💪 Desenvolvedor de Java
