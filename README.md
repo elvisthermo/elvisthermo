@@ -1,16 +1,12 @@
 <h4 align="center">
 
-![autor: Elvis Thermo](img/spacepixel.gif)
+## Fale Galerinha eu sou a Elvis Thermo, Desenvolvedor Full stack!   <img align="right" alt="elvis-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/RLj2WCsfjuIfK8Oy6h/giphy.gif">
 
-
-## Fale Galerinha eu sou a Elvis Thermo, Desenvolvedor Fullstack!
 
 - 🔭 Desenvolvedor de Javascript
 - 💪 Desenvolvedor de Java
 - 🧠 Visualização de dados
 - 🌱 🎨 Artista 2D/3D 
-
-
 
 <div align="center">
   <a href="https://github.com/elvisthermo">
@@ -26,7 +22,6 @@
   <img align="center" alt="elvis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="elvis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-  <img align="right" alt="elvis-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/RLj2WCsfjuIfK8Oy6h/giphy.gif">
 </div>
   
   ##
