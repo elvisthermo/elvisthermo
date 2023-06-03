@@ -1,12 +1,12 @@
 <h4 align="center">
 
-## Fale Galerinha eu sou a Elvis Thermo, Desenvolvedor Full stack!   <img align="right" alt="elvis-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/RLj2WCsfjuIfK8Oy6h/giphy.gif">
+## Hi everyone I'm Elvis Thermo, Full stack Developer!   <img align="right" alt="elvis-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/RLj2WCsfjuIfK8Oy6h/giphy.gif">
 
 
-- 🔭 Desenvolvedor de Javascript
-- 💪 Desenvolvedor de Java
-- 🧠 Visualização de dados
-- 🌱 🎨 Artista 2D/3D 
+- 🔭 Javascript Developer
+- 💪 Java Developer
+- 🧠 Data Visualization
+- 🌱 🎨 2D/3D artist
 
 <div align="center">
   <a href="https://github.com/elvisthermo">
